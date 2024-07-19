@@ -1,0 +1,2 @@
+Best k solutions for PCA:
+{0: {'max_depth': 65, 'min_samples_split': 65, 'min_samples_leaf': 59, 'max_leaf_nodes': 97}, 1: {'max_depth': 164, 'min_samples_split': 97, 'min_samples_leaf': 59, 'max_leaf_nodes': 97}, 2: {'max_depth': 65, 'min_samples_split': 65, 'min_samples_leaf': 59, 'max_leaf_nodes': 97}}
